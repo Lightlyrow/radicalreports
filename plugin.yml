@@ -1,0 +1,15 @@
+name: RadicalReports
+version: 4.8.12
+author: Lightlyrow
+main: me.light.radicalreports.Main
+description: Easily report players with this plugin. Do not copy or sell.
+softdepend: [PermissionsEx]
+
+commands:
+    report:
+        description: Allows you to report players.
+    reports:
+        description: Allows you to view the reports and reload/change the config.
+    staff:
+        aliases: [mod]
+        description: Toggle staff mode and display online staff members.
